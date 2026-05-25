@@ -152,8 +152,10 @@ team-directory/
 │   │   ├── MemberCard.jsx
 │   │   ├── MemberList.jsx
 │   │   └── AddMemberForm.jsx
+|   ├──styles/
+│   │   ├── base.css
 │   ├── App.jsx
-│   ├── App.css (or App.module.css)
+│   ├── index.css
 │   └── main.jsx
 ├── index.html
 └── package.json

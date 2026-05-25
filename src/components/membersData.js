@@ -1,0 +1,58 @@
+export const membersData = [
+  {
+    id: 1,
+    name: "Amara Okafor",
+    role: "Frontend Developer",
+      department: "Engineering",
+    email: "amara@teamapp.com",
+    avatar: "AO",
+    isActive: true,
+  },
+  {
+    id: 2,
+    name: "Tunde Adeyemi",
+    role: "Product Manager",
+    department: "Product",
+    email: "tunde@teamapp.com",
+    avatar: "TA",
+    isActive: true,
+  },
+  {
+    id: 3,
+    name: "Chisom Eze",
+    role: "UX Designer",
+    department: "Design",
+    email: "chisom@teamapp.com",
+    avatar: "CE",
+    isActive: false,
+  },
+  {
+    id: 4,
+    name: "Emeka Nwosu",
+    role: "Backend Developer",
+    department: "Engineering",
+    email: "emeka@teamapp.com",
+    avatar: "EN",
+    isActive: true,
+  },
+  {
+    id: 5,
+    name: "Fatima Bello",
+    role: "QA Engineer",
+    department: "Engineering",
+    email: "fatima@teamapp.com",
+    avatar: "FB",
+    isActive: true,
+  },
+  {
+    id: 6,
+    name: "Ngozi Adeola",
+    role: "UX Designer",
+    department: "Design",
+    email: "ngozi@teamapp.com",
+    avatar: "NA",
+    isActive: false,
+  },
+];
+
+export default membersData;
